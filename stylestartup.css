@@ -1,0 +1,35 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  margin: 40px;
+  text-align: justify;
+  background-image: url(LandingStock_image_38.jpg);
+  background-size: cover;
+}
+
+.jumbotron {
+    height:60%;
+    width: 90%;
+    border: 1px solid black;
+    opacity: 0.9;
+}
+
+.list-unstyled {
+  background-color: #F17586;
+  height:60%;
+  width: 90%;
+  border: 1px solid black;
+  opacity: 0.9;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
